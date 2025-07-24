@@ -3,7 +3,7 @@ CRUD utilizando a linguagem Java com SpringBoot e conexão com banco de dados SQ
 
 # Bibliotecas utilizadas:
 
-Spring Web (Tomcat);
-JPA e Flyway - Para integração com banco de dados MySQL;
-Lombok - Reduzir os boiler plates do código.
+Spring Web (Tomcat); <br>
+JPA e Flyway - Para integração com banco de dados MySQL; <br>
+Lombok - Reduzir os boiler plates do código. <br>
 
