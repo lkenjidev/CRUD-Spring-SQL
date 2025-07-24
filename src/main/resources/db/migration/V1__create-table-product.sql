@@ -1,5 +1,5 @@
 CREATE TABLE product (
-    id TEXT PRIMARY KEY UNIQUE NOT NULL,
-    name TEXT NOT NULL,
-    price_in_cents INT NOT NULL
+    id VARCHAR(255) PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    price_in_cents INT UNSIGNED NOT NULL
 );
